@@ -7,3 +7,5 @@ Download or fork the application from: https://github.com/JonSilva/FEWD-Neighbor
     Select the Show Neighborhood List button to use filtering. Input value into the search box to filter list items and map markers.
     In the list, selecting an item will close the filter window and display name / address info window of selected item.
     On the map, select a map marker to open an name / address info window describing the marker.
+    
+Credits- Thank you Nick for helping me through my stuck points.
